@@ -1,4 +1,6 @@
-#  Analisis Konsep OOP (Object-Oriented Programming)
+#<img width="462" height="253" alt="Screensho<img width="555" height="479" alt="Screenshot 2026-02-06 191942" src="https://github.com/user-attachments/assets/a041e917-4dde-4c03-8aa0-8f3aaf0dedde" />
+t 2026-02-06 192009" src="https://github.com/user-attachments/assets/a9993e7e-bd8e-4c5d-b534-93b6efb74e98" />
+  Analisis Konsep OOP (Object-Oriented Programming)
 
 Dokumen ini berisi ringkasan analisis penerapan konsep OOP dalam Python, meliputi atribut objek, interaksi antar objek, inheritance, enkapsulasi, abstract class, dan polimorfisme.
 
@@ -115,3 +117,4 @@ Jika nama method berbeda:
 ---
 
  **Dokumen ini cocok digunakan sebagai laporan praktikum, README proyek, atau catatan belajar OOP.**
+
